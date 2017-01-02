@@ -1,0 +1,11 @@
+.DS_STORE
+.DS_Store
+*.b#[0-9]
+*.s#[0-9]
+*.b##
+*.s##
+*.pro
+*.job
+gerber-files/**
+*~
+*.lck
