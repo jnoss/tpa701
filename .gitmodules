@@ -1,0 +1,3 @@
+[submodule "bin/eagle-preview-autogen"]
+	path = bin/eagle-preview-autogen
+	url = https://github.com/jnoss/eagle-preview-autogen.git
