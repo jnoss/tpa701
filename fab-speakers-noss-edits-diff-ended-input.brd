@@ -128,7 +128,7 @@
 <text x="12.192" y="39.624" size="0.8128" layer="21">GND</text>
 <text x="29.718" y="33.02" size="0.8128" layer="21" rot="R270">SPEAKER</text>
 <text x="16.002" y="38.608" size="1.016" layer="21" ratio="15">TPA301/701</text>
-<text x="29.972" y="24.384" size="0.8128" layer="22" ratio="10" rot="MR0">BASED ON DAVID A MELLIS'
+<text x="29.972" y="24.384" size="0.8128" layer="22" ratio="10" rot="MR0">BASED ON DAVID A. MELLIS'
 DIY-DEVICES FAB SPEAKER</text>
 </plain>
 <libraries>
