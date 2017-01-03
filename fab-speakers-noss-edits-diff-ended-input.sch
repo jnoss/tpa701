@@ -5184,7 +5184,7 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <busses>
 </busses>
 <nets>
-<net name="N$1" class="0">
+<net name="IN-" class="0">
 <segment>
 <wire x1="43.18" y1="33.02" x2="30.48" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="CI-" gate="G$1" pin="2"/>
@@ -5220,7 +5220,7 @@ Standard 1-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <pinref part="JP1" gate="G$1" pin="2"/>
 </segment>
 </net>
-<net name="RF+" class="0">
+<net name="O-" class="0">
 <segment>
 <wire x1="55.88" y1="78.74" x2="55.88" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="60.96" x2="38.1" y2="60.96" width="0.1524" layer="91"/>
