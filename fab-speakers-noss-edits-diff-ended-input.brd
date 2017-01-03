@@ -482,14 +482,14 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="VALUE" x="22.987" y="27.051" size="0.8128" layer="27" rot="R180"/>
 </element>
 <element name="JP1" library="pinhead" package="1X02" value="SPEAKER" x="27.94" y="30.48" smashed="yes" rot="R270">
-<attribute name="VALUE" x="29.591" y="33.274" size="0.8128" layer="27" rot="R270"/>
+<attribute name="VALUE" x="29.591" y="33.274" size="0.8128" layer="21" rot="R270"/>
 </element>
 <element name="CB" library="rcl" package="C0603" value="2.2uF" x="13.97" y="31.75" smashed="yes" rot="R90">
 <attribute name="NAME" x="13.081" y="31.115" size="0.8128" layer="25" rot="R90"/>
 <attribute name="VALUE" x="14.351" y="30.099" size="0.8128" layer="27" rot="R90"/>
 </element>
 <element name="CS2" library="rcl" package="C0603" value=".1uF" x="24.13" y="30.48" smashed="yes" rot="R270">
-<attribute name="NAME" x="23.749" y="33.909" size="0.8128" layer="25" rot="R270"/>
+<attribute name="NAME" x="23.749" y="34.925" size="0.8128" layer="25" rot="R270"/>
 <attribute name="VALUE" x="23.749" y="31.623" size="0.8128" layer="27" rot="R270"/>
 </element>
 <element name="IN-" library="SparkFun-Connectors" package="1X01" value="M01PTH" x="10.16" y="27.94" smashed="yes">
@@ -519,7 +519,7 @@ Please make sure your boards conform to these design rules.</description>
 </element>
 <element name="U$3" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="" x="23.876" y="30.48" rot="MR0"/>
 <element name="CS1" library="rcl" package="C0603" value="1uF" x="25.4" y="30.48" smashed="yes" rot="R270">
-<attribute name="NAME" x="25.019" y="33.909" size="0.8128" layer="25" rot="R270"/>
+<attribute name="NAME" x="25.019" y="34.925" size="0.8128" layer="25" rot="R270"/>
 <attribute name="VALUE" x="25.019" y="31.369" size="0.8128" layer="27" rot="R270"/>
 </element>
 </elements>
